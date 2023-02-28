@@ -15,3 +15,6 @@ Your task:
 - In these files, you will find what you need to do to pass the test cases.
 
 Good luck! 🍀🚀
+
+PS:
+I took a look at the getFutureEventWithWorkshops event and fixed the issue with the workshop ordering which caused the test to fail.
