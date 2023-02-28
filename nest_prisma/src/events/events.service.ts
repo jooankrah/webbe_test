@@ -173,7 +173,7 @@ export class EventsService {
         include: {
           workshops: {
             orderBy: {
-              start: 'desc',
+              start: 'asc',
             },
           },
         },
